@@ -1,0 +1,22 @@
+{
+	"name":"com.smidgenomics.unity-pview",
+	"version":"0.1.0",
+	"displayName":"Project View",
+	"description":"Project view customization.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Smidgens/unity-pview.git"
+	},
+	"author":{
+		"name":"Unnar Krist",
+		"url":"https://github.com/Smidgens"
+	},
+	"keywords":[
+		"unity",
+		"unity-editor",
+		"project-view",
+		"smidgenomics",
+		"unity-pview",
+		"tool"
+	]
+}
